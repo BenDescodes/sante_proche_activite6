@@ -69,11 +69,22 @@ Les tests vérifient la conversion des données Firebase, le préremplissage du 
 flutter build apk --debug
 ```
 
-L’APK est généré dans `build/app/outputs/flutter-apk/app-debug.apk`.
+L’APK est généré dans `/apk/app-debug.apk`.
 
 ## Difficultés rencontrées
 
+- Difficulté technique liée à la réalisation d’un projet assez grand.
+- Choisir la bonne technologie pour stocker les données.
+- Il a été difficile de bien placer la logique recherchée dans le projet. Cela m’a pris beaucoup de temps avant de résoudre le problème.
+- J’ai dû supprimer certaines fonctionnalités afin de concevoir uniquement les parties importantes à présenter.
+
 ## Captures d’écran
+
+- Fichier Capture test dans l'espace deport
+
+## Video demo
+
+- Fichier demo-app-sante-proche.mp4 dans l'espace de depot
 
 ## Auteur
 
