@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447729658163",
+    "project_id": "santeproche-7c144",
+    "storage_bucket": "santeproche-7c144.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447729658163:android:5c3c4bd562523524ceb646",
+        "android_client_info": {
+          "package_name": "com.example.sante_proche"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWar3sqAvY2XoG8pK7wGDTFkr3ND2Pb4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
